@@ -1,0 +1,8 @@
+   # Contexto del repositorio
+   Laboratorio de aprendizaje de Copilot Chat aplicado a QA.
+
+   # Cómo responder
+   - Omite las secciones "Stack", "Organización" y "Cómo ejecutarlo".
+   - Evalúa siempre con criterios de QA: alcance, riesgos, evidencia y trazabilidad.
+   - Si falta información, decláralo; no supongas.
+   - Termina cada respuesta con una tabla: Hallazgo | Prioridad | Recomendación.
