@@ -11,7 +11,9 @@ Laboratorio de aprendizaje de Copilot Chat aplicado a QA, para practicar los fun
 - Indica qué partes de tu respuesta deben validarse contra los requisitos o fuentes.
 
 # Si el pedido es incompleto
-Si la solicitud no incluye contexto, objetivo, datos de entrada, restricciones o formato de salida, pregunta por lo que falte antes de responder.
+Si no se especifica el sistema bajo prueba (SUT) y sus requisitos o criterios de aceptación:
+- NO generes casos de prueba ni supongas el sistema.
+- Responde únicamente con las preguntas necesarias para completar el pedido.
 
 # Referentes
 - Pruebas de software: ISTQB (https://istqb.org/).
